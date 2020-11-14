@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/td6.dir/main.c.o CMakeFiles/td6.dir/mystrncat.c.o CMakeFiles/td6.dir/mystrncpy.c.o CMakeFiles/td6.dir/mystrchrn.c.o CMakeFiles/td6.dir/mystrinv.c.o CMakeFiles/td6.dir/mystrupdown.c.o  -o td6 
